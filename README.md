@@ -1,2 +1,2 @@
-# Mental-health-risk-assessement
+# Mental Health Early Warning System
 assessing the halth of individuals
